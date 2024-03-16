@@ -30,4 +30,4 @@ while not isGameOver:
     else:
         print("Draw")
     
-    #Todo promt if want do play again
+    # TODO promt if want do play again
